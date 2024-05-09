@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Jan-t2b-filip/Jan-t2b-filip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
