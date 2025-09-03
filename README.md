@@ -12,8 +12,8 @@ I focus on **ecology, data analysis, and visualization**. I enjoy connecting **s
 ## 🧭 My approach
 
 - **Science meets practice**: translating research results into applicable solutions.
-- **Data quality**: emphasis on robust collection, management, and reproducibility.
-- **Collaboration**: I value teamwork and mentoring students and colleagues.
+- **Data quality**:           emphasis on robust collection, management, and reproducibility.
+- **Collaboration**:          I value teamwork and mentoring students and colleagues.
 
 ---
 
