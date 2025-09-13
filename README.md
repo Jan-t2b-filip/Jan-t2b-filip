@@ -31,7 +31,7 @@ I focus on **ecology, data analysis, and visualization**. I enjoy connecting **s
 
 ### 1) Latitudinal patterns in specialization of interspecific interactions
 
-- **Role:** lead researcher, coordinator
+- **Role:** researcher, coordinator
 - **Stack:** R, Python, AI framework for data extraction
 - **Impact:** developed a novel approach to evaluate pollinator specialization; results applicable for biodiversity conservation and ecosystem change prediction.
 - 📍 Fieldwork: South Africa (2023), Greece (2022)
