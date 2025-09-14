@@ -19,7 +19,7 @@ I focus on **ecology, data analysis, and visualization**. I enjoy connecting **s
 
 ## 🧰 Tech stack
 
-**Data Analysis:** R, Python \
+**Data Analysis:** R, Python\
 **Visualization:** ggplot2, matplotlib, seaborn\
 **Statistics & Modeling:** GLMM, ordination methods, machine learning\
 **Automation & Data Processing:** Bash, GitHub \
